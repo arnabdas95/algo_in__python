@@ -1,4 +1,4 @@
-# Rotate ana array in k position clockwise
+# Rotate ana array in kth position clockwise
 import cProfile
 '''
 TESTCASE INPUT
